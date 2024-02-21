@@ -1,0 +1,13 @@
+.btn {
+  padding: 10px 20px;
+  color: #eeee;
+  border: none;
+  border-radius: 15px;
+}
+
+.year {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40vh;
+}

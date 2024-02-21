@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  margin: 30px 40px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  text-decoration: underline;
+  cursor: pointer;
+  letter-spacing: 2px;
+}
+
+.header nav ul {
+  display: flex;
+  align-items: center;
+  gap: 70px;
+}
+
+.link {
+  text-decoration: none;
+}
